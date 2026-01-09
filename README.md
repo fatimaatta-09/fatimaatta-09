@@ -73,9 +73,12 @@ I am a Cybersecurity student specializing in **Ethical Hacking** and the protect
   <img src="https://img.shields.io/badge/METRICS-GITHUB_STATS-1F2937?style=for-the-badge&logo=google-analytics&logoColor=0f9b0f" />
   <br /><br />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1F2937&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1F2937&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1F2937" height="165" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=1F2937" height="150" alt="streak graph" />
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1F2937" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
