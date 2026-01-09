@@ -26,9 +26,9 @@
 
 > 🎓 **Undergraduate:** BS Cybersecurity @ **GIKI** (2024-2028)  
 > 🔭 **Current Focus:** **Network Penetration Testing** & System Hardening  
-> 🎯 **Research Goal:** Mitigating **Brainjacking** (Security of Neural Implants)  
+> 🎯 **Future Research Interest:** Mitigating **Brainjacking** (Security of Neural Implants)  
 
-I am a Cybersecurity student specializing in **Ethical Hacking** and the protection of critical networks. My research bridges the gap between **Neuro-AI** and **Security**, with a specific mission to secure Brain-Computer Interfaces (BCIs) against unauthorized manipulation (**Brainjacking**).
+I am a Cybersecurity student specializing in **Ethical Hacking** and the protection of critical networks. I am actively **exploring** the intersection of **Neuro-AI** and **Security**, with a long-term academic goal of researching vulnerabilities in Brain-Computer Interfaces (BCIs) against unauthorized manipulation (**Brainjacking**).
 
 <br />
 
