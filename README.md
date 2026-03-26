@@ -63,9 +63,9 @@ I am a Cybersecurity student specializing in **Ethical Hacking** and the protect
 
 | Year | Role / Event | Outcome |
 | :--- | :--- | :--- |
-| **2025** | **GIKI Innovation Summit (GIS)** | 🏆 **WINNER** (Obstacle Robot) |
-| **2025** | **Air University (NeuroImaging)** | 🔬 **Research Intern** |
-| **2024** | **National Electronics Olympiad** | 🏆 **WINNER** (Line Follower) |
+| **2025** | **GIKI Innovation Summit (GIS)** |  **WINNER** (Obstacle Robot) |
+| **2025** | **Air University (NeuroImaging)** | **Research Intern** |
+| **2024** | **National Electronics Olympiad** | **WINNER** (Line Follower) |
 
 <br />
 
