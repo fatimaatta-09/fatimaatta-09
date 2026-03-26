@@ -24,9 +24,9 @@
 
 <br />
 
-> 🎓 **Undergraduate:** BS Cybersecurity @ **GIKI** (2024-2028)  
-> 🔭 **Current Focus:** **Network Penetration Testing** & System Hardening  
-> 🎯 **Future Research Interest:** Mitigating **Brainjacking** (Security of Neural Implants)  
+>  **Undergraduate:** BS Cybersecurity @ **GIKI** (2024-2028)  
+> **Current Focus:** **Network Penetration Testing** & System Hardening  
+> **Future Research Interest:** Mitigating **Brainjacking** (Security of Neural Implants)  
 
 I am a Cybersecurity student specializing in **Ethical Hacking** and the protection of critical networks. I am actively **exploring** the intersection of **Neuro-AI** and **Security**, with a long-term academic goal of researching vulnerabilities in Brain-Computer Interfaces (BCIs) against unauthorized manipulation (**Brainjacking**).
 
@@ -50,10 +50,10 @@ I am a Cybersecurity student specializing in **Ethical Hacking** and the protect
 
 | ID | Project Name | Type | Description |
 | :--: | :--- | :--: | :--- |
-| **01** | **Neuro-AI Alzheimer's** | 🧠 AI | **Research:** EEG Classification using Deep Learning & PsychoPy. |
-| **02** | **Obstacle Avoidance** | 🤖 Robo | **Winner:** GIKI Summit '25. Autonomous navigation unit. |
-| **03** | **Line Follower** | 🏎️ Robo | **Winner:** NEO '24. PID-based IR sensor navigation. |
-| **04** | **Face Recognition** | 👁️ Sec | **Security:** Biometric access control using OpenCV. |
+| **01** | **Neuro-AI Alzheimer's** |  AI | **Research:** EEG Classification using Deep Learning & PsychoPy. |
+| **02** | **Obstacle Avoidance** | Robo | **Winner:** GIKI Summit '25. Autonomous navigation unit. |
+| **03** | **Line Follower** | Robo | **Winner:** NEO '24. PID-based IR sensor navigation. |
+| **04** | **Face Recognition** | Sec | **Security:** Biometric access control using OpenCV. |
 
 <br />
 
@@ -68,18 +68,6 @@ I am a Cybersecurity student specializing in **Ethical Hacking** and the protect
 | **2024** | **National Electronics Olympiad** | 🏆 **WINNER** (Line Follower) |
 
 <br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/METRICS-GITHUB_STATS-1F2937?style=for-the-badge&logo=google-analytics&logoColor=0f9b0f" />
-  <br /><br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1F2937&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=1F2937" height="150" alt="streak graph" />
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1F2937" height="150" alt="languages graph" />
-</div>
 
 <div align="center">
   <p>© 2026 Fatima Rehman | <a href="https://www.linkedin.com/in/fatima-rehman09">Connect on LinkedIn</a></p>
